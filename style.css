@@ -4,7 +4,7 @@ ol {
   list-style-position: inside;
 }
 
-/* Write your CSS below, don't change the rules above. */
+/* From exercise*/
 p {
   color:red;
 }
@@ -21,9 +21,13 @@ li[value="4"] {
   color: blue;
 }
 
+/*For my github page*/
 * {
   text-align: center;
   background-color: pink;
+}
+h3{
+    color: rgb(191, 15, 91);
 
 }
 
